@@ -1,5 +1,5 @@
 # first-git
 this is my first visit on git
 <br>
-Author:sumit kumar
+Author:sumit kumar (developer)
 
